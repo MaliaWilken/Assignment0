@@ -1,4 +1,6 @@
+# Assignment 0
 Malia Wilken
 https://github.com/MaliaWilken/Assignment0
 https://youtu.be/N6UbPAISBJE
-Open Broadcaster Software (OBS Studio) and VS Code
+Screencast Software: Open Broadcaster Software (OBS Studio)
+IDE: Visual Studio Code
